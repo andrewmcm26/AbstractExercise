@@ -1,0 +1,11 @@
+/Users/andrewmcmahon/Desktop/Repos/AbstractExercise/AbstractExercise/bin/Debug/netcoreapp3.1/AbstractExercise
+/Users/andrewmcmahon/Desktop/Repos/AbstractExercise/AbstractExercise/bin/Debug/netcoreapp3.1/AbstractExercise.deps.json
+/Users/andrewmcmahon/Desktop/Repos/AbstractExercise/AbstractExercise/bin/Debug/netcoreapp3.1/AbstractExercise.runtimeconfig.json
+/Users/andrewmcmahon/Desktop/Repos/AbstractExercise/AbstractExercise/bin/Debug/netcoreapp3.1/AbstractExercise.runtimeconfig.dev.json
+/Users/andrewmcmahon/Desktop/Repos/AbstractExercise/AbstractExercise/bin/Debug/netcoreapp3.1/AbstractExercise.dll
+/Users/andrewmcmahon/Desktop/Repos/AbstractExercise/AbstractExercise/bin/Debug/netcoreapp3.1/AbstractExercise.pdb
+/Users/andrewmcmahon/Desktop/Repos/AbstractExercise/AbstractExercise/obj/Debug/netcoreapp3.1/AbstractExercise.csprojAssemblyReference.cache
+/Users/andrewmcmahon/Desktop/Repos/AbstractExercise/AbstractExercise/obj/Debug/netcoreapp3.1/AbstractExercise.AssemblyInfoInputs.cache
+/Users/andrewmcmahon/Desktop/Repos/AbstractExercise/AbstractExercise/obj/Debug/netcoreapp3.1/AbstractExercise.AssemblyInfo.cs
+/Users/andrewmcmahon/Desktop/Repos/AbstractExercise/AbstractExercise/obj/Debug/netcoreapp3.1/AbstractExercise.dll
+/Users/andrewmcmahon/Desktop/Repos/AbstractExercise/AbstractExercise/obj/Debug/netcoreapp3.1/AbstractExercise.pdb
